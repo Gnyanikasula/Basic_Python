@@ -1,0 +1,7 @@
+num = input("Enter a number:")
+integer = int(num)
+floating_number = float(num)
+complex_number = complex(num)
+print(f"Interger {integer}")
+print(f"float {floating_number}")
+print(f"Complex {complex_number}")
